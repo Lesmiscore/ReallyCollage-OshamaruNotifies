@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="app_name">ReallyCollage_OshamaruNotifies</string>
-    <string name="hello_world">Hello world!</string>
-
+    <string name="app_name">おしゃマルの通知ガチコラ</string>
+	<string name="show">出すで〜</string>
+	<string name="mes">メッセージ打ってね(複数行可)</string>
 </resources>
